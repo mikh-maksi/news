@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+p{
+    font-family: 'Verdana';
+}
+.first{
+    font-size: 20px;
+}
+.word{
+    color:red;
+    font-weight: bold;
+}
+
+.word:hover{
+    color:blue;
+    font-weight: bold;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.messi{
+    font-size: 40px;
+}
+.image{
+    border: 3px solid transparent;
+}
+.image:hover{
+    border: 3px solid blue;
+    cursor: pointer;
+}
+
+.site:link{
+    color:black;
+}
+.site:visited{
+    color: black;
+}
+
+.site:active{
+    color: red;
+    font-size: 25px;
+}
+.site:hover{
+    text-decoration: none;
+}
+
+
+#sp1{
+    font-size: 30px;
+    font-style: italic;
+    text-decoration: underline;
+}
